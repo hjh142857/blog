@@ -7,7 +7,7 @@ Some great blogs
 http://mirror.am0200.com/
 http://sync.sh/
 
-U can just try it!Just 2 files(`index.html` and `build*.js`) after change something in `index.html`
+U can just try it! Just 2 files(`index.html` and `build*.js`) after change something in `index.html`
 
 Tutorial(English)https://github.com/LoeiFy/Mirror/wiki/Tutorial
 
